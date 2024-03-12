@@ -11,7 +11,7 @@ A simple Discord theme recolour inspired by <a href=https://github.com/MarkChan0
 ## Download 📩
 
 <!--* From [BetterDiscord](NotCurrentlyUploaded)  Update Better Discord download url when it's uploaded! -->
-* From [Releases](https://github.com/Derisorant/Discord-Github-Theme/releases/latest)
+* From [Releases](https://github.com/Derisorant/Discord-GitTheme/releases/latest)
 
 ## Usage 🤚
 ### [BetterDiscord](https://betterdiscord.app/)
@@ -21,4 +21,4 @@ After downloading, place the `GitTheme.css` file in your `Themes` folder. If you
 After downloading, place the `GitTheme.css` file in your `Themes` folder. This can be found in `Discord -> Settings -> Themes -> Open Themes Folder`
 
 ## Preview 📷
-<img src="https://github.com/Derisorant/Discord-Github-Theme/blob/main/Assets/Fullscreen.png?raw=true">
+<img src="https://github.com/Derisorant/Discord-GitTheme/blob/main/Assets/Fullscreen.png?raw=true">
