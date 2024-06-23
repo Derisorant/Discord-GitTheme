@@ -4763,3 +4763,19 @@ div[class^="typeWindows"] div[class^="wordmarkWindows"]::before {
   opacity: 1 !important;
   display: inline !important;
 }
+
+/* Glass User Container */
+section[class^="panels"] div[class^="container"] {
+  border-radius: 16px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  border: 1px solid rgba(29, 33, 37, 0.3) !important;
+  width: 222px;
+}
+
+/* Glass Spotify Container */
+section[class^="panels"] > div[id^="vc-spotify-player"] {
+  border-radius: 16px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  border: 1px solid rgba(29, 33, 37, 0.3) !important;
+  width: 222px;
+}
